@@ -1,0 +1,2 @@
+# AbstractChallenge
+ Abstract class challenge
